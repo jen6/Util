@@ -1,0 +1,3 @@
+CppSingleton
+간단한 c++싱글턴
+public CppSingleton<classname> 상속해서 쓰면 된다
